@@ -1,7 +1,7 @@
 package chapter02;
 public class ComputeArea {
 	public static void main(String args[]) {
-		double radius;
+		double radius; 
 		double area;
 		//Find radius of circle
 		radius = 10;
